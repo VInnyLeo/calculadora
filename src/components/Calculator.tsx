@@ -13,7 +13,7 @@ export default function Calculator() {
   return (
     //llamar a un evento onClick
     <>
-        <h3 className='text-2xl'>CALCULADORA <small className='font-bold'>{}</small> </h3>
+        <h3 className='text-2xl'>CALCULADORA BASICA <small className='font-bold'>{}</small> </h3>
 
         <div id="appCal">
 
